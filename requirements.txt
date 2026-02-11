@@ -1,0 +1,5 @@
+# HTTP requests library
+requests>=2.31.0
+
+# Load environment variables from .env file
+python-dotenv>=1.0.0
